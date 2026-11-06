@@ -1,0 +1,14 @@
+# ChatYX Russian TTS voice catalog
+# Use one moderator command: !chat tts [-s Voice] текст
+
+[ChatIS / Streamlabs]
+| Voice | Locale | Gender | Features |
+| --- | --- | --- | --- |
+| Maxim | Russian | Male | Streamlabs |
+| Tatyana | Russian | Female | Streamlabs |
+
+[JustDavi / Azure]
+| Voice | Locale | Gender | Features |
+| --- | --- | --- | --- |
+| Dmitry | Russian | Male | Azure Neural: ru-RU-DmitryNeural |
+| Svetlana | Russian | Female | Azure Neural: ru-RU-SvetlanaNeural |

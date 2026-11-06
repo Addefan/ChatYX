@@ -1,0 +1,1 @@
+import{O as e}from"./framework-D3f530qH.js";import{StatusOverlay as t}from"./status-Cn4oFT6X.js";function n(){return e(t,{viaRte:!0})}export{n as default};

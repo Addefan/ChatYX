@@ -1,0 +1,1 @@
+import{O as e,f as t,i as n}from"./framework-D3f530qH.js";import"./replyEligibility-ChRZVmP5.js";import"./chat-g7Q4FrPe.js";function r(){return e(n,{href:`/`})}t([`click`]);export{r as default};
